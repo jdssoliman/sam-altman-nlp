@@ -73,7 +73,7 @@ st.subheader('Gian')
 st.write("Servanez, Gian Paolo [LinkedIn](%s)" % url_gian)
 
 st.subheader('Jed')
-st.write("Soliman, Jeremiah David [LinkedIn](%s)" % url_jed)
+st.write("Soliman, Jeremiah Dominic [LinkedIn](%s)" % url_jed)
 
 
 
