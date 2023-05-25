@@ -12,8 +12,6 @@ st.title("Decoding Public Sentiment:Exploring OpenAI's Regulation Hearing")
 #### you may edit here onwards ###
 
 
-st.title("AI Regulation: Sam Altman US Senate Hearing")
-
 st.write("Sam Altman, CEO of OpenAI, the company who made ChatGPT, testified before the US Senate on May 16, 2023. Altman urged lawmakers to regulate artificial intelligence, arguing that the technology could pose a significant threat to society if it is not properly controlled.")
 
 image1 = Image.open('samaltman.webp') 
