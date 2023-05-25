@@ -51,4 +51,35 @@ st.subheader('Jed Soliman')
 # st.image(image5, caption='Jed Soliman', use_column_width=True)
 
 
+#try with link
+
+url_jamie = "https://www.linkedin.com/in/austincarvajal/"
+url_ace = "https://www.linkedin.com/in/acecanacan/"
+url_pau = "https://www.linkedin.com/in/jann-pauline-sanchez/"
+url_gian = "https://www.linkedin.com/in/gpservanez/"
+url_jed = "https://www.linkedin.com/in/jeremiah-dominic-soliman-59a708155/"
+#url_rods = "https://www.linkedin.com/in/ajloconer/"
+
+st.subheader('Jamie')
+st.write("Cuadra, Jamie [LinkedIn](%s)" % url_jamie)
+
+st.subheader('Ace')
+st.write("Canacan, Ace [LinkedIn](%s)" % url_ace)
+
+st.subheader('Pau')
+st.write("Sanchez, Jann Pauline [LinkedIn](%s)" % url_pau)
+
+st.subheader('Gian')
+st.write("Servanez, Gian Paolo [LinkedIn](%s)" % url_gian)
+
+st.subheader('Jed')
+st.write("Soliman, Jeremiah David [LinkedIn](%s)" % url_jed)
+
+
+st.markdown('Mentor')
+st.subheader('Rods')
+st.write("Casera, Rodel")
+#st.write("Cuadra, Jamie [LinkedIn](%s)" % url_AJ)
+
+
 st.write("Feel free to add us on our socials! See you out there!")
