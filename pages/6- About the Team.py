@@ -11,7 +11,7 @@ st.title("Meet the Team")
 st.write("Our name JAPGJae is an abbreviation of the first letters of the names of the team members, namely, Jamie, Ace, Pau, Gian and Jed. They found a mutual love for the Korean dish _japchae_ (glass noodles) and _jigae_ (hot stew), explaining the remaining two letters _ae_. ")
 
 #1
-st.subheader('Jamie Cuadra')
+#st.subheader('Jamie Cuadra')
 
 # st.write("Jamie Description ")
 
@@ -19,7 +19,7 @@ st.subheader('Jamie Cuadra')
 # st.image(image1, caption='Jamie Cuadra', use_column_width=True)
 
 #2
-st.subheader('Ace Canacan')
+#st.subheader('Ace Canacan')
 
 # st.write("Ace Description ")
 
@@ -27,7 +27,7 @@ st.subheader('Ace Canacan')
 # st.image(image2, caption='Ace Canacan', use_column_width=True)
 
 #3
-st.subheader('Pau Sanchez')
+#st.subheader('Pau Sanchez')
 
 # st.write("Pau Description ")
 
@@ -35,7 +35,7 @@ st.subheader('Pau Sanchez')
 # st.image(image3, caption='Pau Sanchez', use_column_width=True)
 
 #4
-st.subheader('Gian Servanez')
+#st.subheader('Gian Servanez')
 
 # st.write("Gian Description ")
 
@@ -43,7 +43,7 @@ st.subheader('Gian Servanez')
 # st.image(image4, caption='Gian Servanez', use_column_width=True)
 
 #5
-st.subheader('Jed Soliman')
+#st.subheader('Jed Soliman')
 
 # st.write("Jed Description ")
 
@@ -51,7 +51,7 @@ st.subheader('Jed Soliman')
 # st.image(image5, caption='Jed Soliman', use_column_width=True)
 
 
-#try with link
+#with linkedin
 
 url_jamie = "https://www.linkedin.com/in/austincarvajal/"
 url_ace = "https://www.linkedin.com/in/acecanacan/"
@@ -76,9 +76,9 @@ st.subheader('Jed')
 st.write("Soliman, Jeremiah David [LinkedIn](%s)" % url_jed)
 
 
-st.markdown('Mentor')
+
 st.subheader('Rods')
-st.write("Casera, Rodel")
+st.write("Casera, Rodel (Mentor)")
 #st.write("Cuadra, Jamie [LinkedIn](%s)" % url_AJ)
 
 
