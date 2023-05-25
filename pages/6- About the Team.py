@@ -53,7 +53,7 @@ st.write("Our name JAPGJae is an abbreviation of the first letters of the names 
 
 #with linkedin
 
-url_jamie = "https://www.linkedin.com/in/austincarvajal/"
+url_jamie = "https://www.linkedin.com/in/jlcuadra/"
 url_ace = "https://www.linkedin.com/in/acecanacan/"
 url_pau = "https://www.linkedin.com/in/jann-pauline-sanchez/"
 url_gian = "https://www.linkedin.com/in/gpservanez/"
