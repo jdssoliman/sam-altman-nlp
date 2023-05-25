@@ -15,40 +15,40 @@ st.subheader('Jamie Cuadra')
 
 st.write("Jamie Description ")
 
-image1 = Image.open('samaltman.webp') 
-st.image(image1, caption='Jamie Cuadra', use_column_width=True)
+# image1 = Image.open('samaltman.webp') 
+# st.image(image1, caption='Jamie Cuadra', use_column_width=True)
 
 #2
 st.subheader('Ace Canacan')
 
 st.write("Ace Description ")
 
-image2 = Image.open('ace.jpg') 
-st.image(image2, caption='Ace Canacan', use_column_width=True)
+# image2 = Image.open('ace.jpg') 
+# st.image(image2, caption='Ace Canacan', use_column_width=True)
 
 #3
 st.subheader('Pau Sanchez')
 
 st.write("Pau Description ")
 
-image3 = Image.open('pau.jpg') 
-st.image(image3, caption='Pau Sanchez', use_column_width=True)
+# image3 = Image.open('pau.jpg') 
+# st.image(image3, caption='Pau Sanchez', use_column_width=True)
 
 #4
 st.subheader('Gian Servanez')
 
 st.write("Gian Description ")
 
-image4 = Image.open('samaltman.webp') 
-st.image(image4, caption='Gian Servanez', use_column_width=True)
+# image4 = Image.open('samaltman.webp') 
+# st.image(image4, caption='Gian Servanez', use_column_width=True)
 
 #5
 st.subheader('Jed Soliman')
 
 st.write("Jed Description ")
 
-image5 = Image.open('jed.jpg') 
-st.image(image5, caption='Jed Soliman', use_column_width=True)
+# image5 = Image.open('jed.jpg') 
+# st.image(image5, caption='Jed Soliman', use_column_width=True)
 
 
 st.write("Feel free to add us on our socials! See you out there!")
