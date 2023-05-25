@@ -13,7 +13,7 @@ st.write("Our name JAPGJae is an abbreviation of the first letters of the names 
 #1
 st.subheader('Jamie Cuadra')
 
-st.write("Jamie Description ")
+# st.write("Jamie Description ")
 
 # image1 = Image.open('samaltman.webp') 
 # st.image(image1, caption='Jamie Cuadra', use_column_width=True)
@@ -21,7 +21,7 @@ st.write("Jamie Description ")
 #2
 st.subheader('Ace Canacan')
 
-st.write("Ace Description ")
+# st.write("Ace Description ")
 
 # image2 = Image.open('ace.jpg') 
 # st.image(image2, caption='Ace Canacan', use_column_width=True)
@@ -29,7 +29,7 @@ st.write("Ace Description ")
 #3
 st.subheader('Pau Sanchez')
 
-st.write("Pau Description ")
+# st.write("Pau Description ")
 
 # image3 = Image.open('pau.jpg') 
 # st.image(image3, caption='Pau Sanchez', use_column_width=True)
@@ -37,7 +37,7 @@ st.write("Pau Description ")
 #4
 st.subheader('Gian Servanez')
 
-st.write("Gian Description ")
+# st.write("Gian Description ")
 
 # image4 = Image.open('samaltman.webp') 
 # st.image(image4, caption='Gian Servanez', use_column_width=True)
@@ -45,7 +45,7 @@ st.write("Gian Description ")
 #5
 st.subheader('Jed Soliman')
 
-st.write("Jed Description ")
+# st.write("Jed Description ")
 
 # image5 = Image.open('jed.jpg') 
 # st.image(image5, caption='Jed Soliman', use_column_width=True)
